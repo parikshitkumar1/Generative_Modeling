@@ -5,6 +5,8 @@
 
 #### Using GANs for generating faces progress (110 epochs)
 
+#### Progress grid:
+
 ![image_at_epoch_0001](https://user-images.githubusercontent.com/52780573/102992192-c7f6dd00-4540-11eb-9ec5-2c961367df39.png)
 
 
