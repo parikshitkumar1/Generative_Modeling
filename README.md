@@ -3,7 +3,7 @@
 ### Training GANs 
 
 
-#### Using GANs for generating faces progress (110 epochs)
+#### Using GANs for generating faces, progress for 110 epochs:
 
 #### Progress grid:
 
