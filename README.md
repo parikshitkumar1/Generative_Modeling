@@ -1,6 +1,6 @@
 ----
 
-### Training GANs 
+### Training GAN
 
 
 #### Using GANs for generating faces, progress for 110 epochs:
